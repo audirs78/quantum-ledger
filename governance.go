@@ -1,2 +1,3 @@
 // Update smart contract tests
 // Enhance decentralized autonomous governance
+// Integrate Chainlink VRF for randomness
