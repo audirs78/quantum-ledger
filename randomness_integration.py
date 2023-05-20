@@ -2,3 +2,4 @@
 // Improve security in decentralized applications
 // Improve contract state management
 // Improve contract execution performance
+// Add support for decentralized credit scoring
