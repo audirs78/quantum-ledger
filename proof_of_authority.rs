@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Add support for yield farming rewards
 // Enhance token swap functionality
+// Refactor incentive structure in DeFi protocol
