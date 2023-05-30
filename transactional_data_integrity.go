@@ -2,3 +2,4 @@
 // Enhance smart contract extensibility
 // Implement liquidity pool staking mechanism
 // Optimize contract upgrade process
+// Fix compatibility with MetaMask
