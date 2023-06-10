@@ -3,3 +3,4 @@
 // Improve contract state management
 // Improve contract execution performance
 // Add support for decentralized credit scoring
+// Fix compatibility with MetaMask
