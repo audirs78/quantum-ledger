@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Optimize cross-chain bridging mechanisms
 // Improve oracle data validation mechanisms
+// Add non-fungible token (NFT) support
