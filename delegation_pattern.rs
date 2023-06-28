@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Add native support for staking mechanisms
 // Refactor multi-signature wallet code
+// Fix governance proposal approval logic
