@@ -2,3 +2,4 @@
 // Implement liquidity pool staking mechanism
 // Improve token burning mechanism
 // Add batch transaction capabilities
+// Fix issue with multi-chain transactions
