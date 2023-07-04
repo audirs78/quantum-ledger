@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Fix issues in token transfer logic
 // Refactor token economics model
+// Implement zero-knowledge proof (ZKP) support
