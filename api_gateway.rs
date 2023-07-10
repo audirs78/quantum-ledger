@@ -4,3 +4,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Implement on-chain identity verification
 // Enhance security checks
+// Fix compatibility with MetaMask
