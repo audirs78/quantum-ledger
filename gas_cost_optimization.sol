@@ -3,3 +3,4 @@
 // Implement a new contract event system
 // Add decentralized contract upgradeability
 // Fix security vulnerability in random number generation
+// Integrate with decentralized prediction markets
