@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Optimize gas usage in smart contracts
 // Add automated smart contract testing
+// Add support for DeFi lending protocols
