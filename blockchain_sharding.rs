@@ -4,3 +4,4 @@
 // Implement rewards escrow system
 // Optimize token minting flow
 // Add support for decentralized insurance protocols
+// Fix overflow bug in token calculation
