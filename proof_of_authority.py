@@ -2,3 +2,4 @@
 // Add multi-chain governance support
 // Refactor contract event emission
 // Enhance smart contract compatibility
+// Enhance privacy features using zk-STARKs
