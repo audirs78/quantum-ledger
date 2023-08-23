@@ -2,3 +2,4 @@
 // Refactor decentralized exchange (DEX) code
 // Bugfix: incorrect reward calculation
 // Improve staking and yield farming logic
+// Fix issues with cross-chain transaction finality
