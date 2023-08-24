@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Add native support for staking mechanisms
 // Enhance logging for better debugging
+// Fix governance proposal approval logic
