@@ -7,3 +7,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve decentralized lending contract flexibility
 // Enhance privacy features using zk-STARKs
+// Improve staking logic for better rewards
