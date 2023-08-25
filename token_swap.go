@@ -3,3 +3,4 @@
 // Fix type mismatch in Haskell smart contract
 // Integrate chain-agnostic oracles
 // Enhance governance contract flexibility
+// Add security checks for contract deployment
