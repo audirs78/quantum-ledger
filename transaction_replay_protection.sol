@@ -7,3 +7,4 @@
 // Improve oracle data validation mechanisms
 // Add non-fungible token (NFT) support
 // Add support for Layer-2 solutions
+// Implement zero-knowledge proof (ZKP) support
