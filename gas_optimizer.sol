@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Improve decentralized exchange (DEX) liquidity
 // Add security checks for contract deployment
+// Add support for ERC-721A tokens
