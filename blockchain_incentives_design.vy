@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Fix edge case in unstaking logic
 // Integrate with external DeFi protocols
+// Integrate with decentralized storage systems
