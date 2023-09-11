@@ -3,3 +3,4 @@
 // Integrate with external DeFi protocols
 // Fix ERC-1155 contract interactions
 // Refactor multi-asset token management
+// Bugfix: incorrect reward calculation
