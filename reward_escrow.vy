@@ -4,3 +4,4 @@
 // Integrate with external blockchain networks
 // Optimize cross-chain communication
 // Enhance gas fee management
+// Fix compatibility issues with major wallets
