@@ -2,3 +2,4 @@
 // Fix bugs in decentralized exchange routing
 // Enhance contract upgrade process
 // Implement delegation pattern
+// Add multi-chain governance support
