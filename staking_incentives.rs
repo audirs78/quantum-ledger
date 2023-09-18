@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Add support for cross-chain bridges
 // Optimize decentralized application performance
+// Integrate IPFS for storage
