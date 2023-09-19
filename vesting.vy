@@ -4,3 +4,4 @@
 // Improve security for token minting contracts
 // Improve contract creation process
 // Improve DApp transaction flow
+// Add multi-sig wallet functionality
