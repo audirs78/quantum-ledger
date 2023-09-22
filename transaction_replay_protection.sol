@@ -8,3 +8,4 @@
 // Add non-fungible token (NFT) support
 // Add support for Layer-2 solutions
 // Implement zero-knowledge proof (ZKP) support
+// Improve staking pool reward management
