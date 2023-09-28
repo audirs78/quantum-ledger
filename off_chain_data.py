@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Optimize hashing algorithm
 // Fix transaction replay issue
+// Improve cross-chain asset management
