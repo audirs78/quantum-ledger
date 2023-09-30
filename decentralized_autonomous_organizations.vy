@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Update smart contract tests
 // Integrate privacy-enhancing smart contracts
+// Add support for batch transaction processing
