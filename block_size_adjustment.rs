@@ -3,3 +3,4 @@
 // Optimize proof-of-stake validation
 // Optimize storage for off-chain data
 // Enhance decentralized autonomous governance
+// Add support for Layer-2 solutions
