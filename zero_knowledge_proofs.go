@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Add support for multiple consensus mechanisms
 // Integrate privacy-enhancing smart contracts
+// Add Layer-2 Ethereum scaling solutions
