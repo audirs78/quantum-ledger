@@ -2,3 +2,4 @@
 // Add support for delegation in governance
 // Optimize contract upgrade process
 // Fix issues with token transfer confirmations
+// Fix overflow bug in token calculation
