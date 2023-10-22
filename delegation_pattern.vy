@@ -4,3 +4,4 @@
 // Add automated smart contract testing
 // Add support for batch transaction processing
 // Implement zero-knowledge proof (ZKP) support
+// Integrate IPFS for storage
