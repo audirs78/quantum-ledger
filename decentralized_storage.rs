@@ -2,3 +2,4 @@
 // Add support for decentralized insurance protocols
 // Fix governance proposal approval logic
 // Fix issues in multi-token smart contracts
+// Refactor reward pooling algorithm
