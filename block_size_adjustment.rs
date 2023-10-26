@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Enhance decentralized autonomous governance
 // Add support for Layer-2 solutions
+// Improve gas estimation for transactions
