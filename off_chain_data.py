@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Fix transaction replay issue
 // Improve cross-chain asset management
+// Add support for delegation in governance
