@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Add support for zk-SNARKs in smart contracts
 // Enhance contract modularity
+// Add non-fungible token (NFT) support
