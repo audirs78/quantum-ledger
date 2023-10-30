@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Enhance smart contract upgradeability
 // Enhance contract upgrade mechanism
+// Refactor staking logic
