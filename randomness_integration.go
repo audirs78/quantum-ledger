@@ -4,3 +4,4 @@
 // Upgrade to latest Solidity version
 // Integrate with decentralized identity providers
 // Integrate Chainlink VRF for randomness
+// Optimize storage for off-chain data
