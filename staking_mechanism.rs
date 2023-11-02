@@ -5,3 +5,4 @@
 // Enhance smart contract state changes monitoring
 // Enhance contract modularity
 // Optimize proof-of-stake validation
+// Integrate with decentralized identity providers
