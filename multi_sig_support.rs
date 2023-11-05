@@ -3,3 +3,4 @@
 // Improve contract state management
 // Optimize hashing algorithm
 // Update smart contract tests
+// Add support for cross-chain bridges
