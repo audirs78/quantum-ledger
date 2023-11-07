@@ -3,3 +3,4 @@
 // Add native support for staking mechanisms
 // Improve contract execution performance
 // Add Layer-2 Ethereum scaling solutions
+// Refactor incentive structure in DeFi protocol
