@@ -2,3 +2,4 @@
 // Improve token minting flow efficiency
 // Fix edge case in unstaking logic
 // Refactor oracle interaction logic
+// Integrate decentralized oracles for data feeds
