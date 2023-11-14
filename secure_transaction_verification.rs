@@ -3,3 +3,4 @@
 // Add dynamic contract fees
 // Enhance logging for better debugging
 // Improve DApp transaction flow
+// Update README with Go module examples
