@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Integrate Chainlink VRF for randomness
 // Improve token burning mechanism
+// Add automated contract testing tools
