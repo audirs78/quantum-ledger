@@ -6,3 +6,4 @@
 // Add slashing mechanism for malicious actors
 // Improve contract execution speed
 // Improve multi-chain contract deployment
+// Update dependencies for Vyper contract
