@@ -2,3 +2,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add support for ERC-721A tokens
 // Fix Oracle communication delay issues
+// Fix overflow bug in token calculation
