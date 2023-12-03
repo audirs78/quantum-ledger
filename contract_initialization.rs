@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Optimize storage for off-chain data
 // Integrate decentralized prediction models
+// Add support for ERC-1155 tokens
