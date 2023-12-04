@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Fix ERC-1155 contract interactions
 // Enhance smart contract upgradeability
+// Fix overflow bug in token calculation
