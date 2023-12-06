@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Integrate zk-rollups for scaling
 // Integrate multi-chain liquidity pools
+// Improve contract state management
