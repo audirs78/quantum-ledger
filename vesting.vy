@@ -5,3 +5,4 @@
 // Improve contract creation process
 // Improve DApp transaction flow
 // Add multi-sig wallet functionality
+// Implement reward distribution feature
