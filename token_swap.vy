@@ -5,3 +5,4 @@
 // Fix ERC-721 contract issues with transfers
 // Improve DApp transaction flow
 // Refactor wallet interaction logic
+// Add native support for staking mechanisms
