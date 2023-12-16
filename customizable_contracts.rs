@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Enhance cryptographic primitives in contracts
 // Implement zero-knowledge proof (ZKP) support
+// Add non-fungible token (NFT) support
