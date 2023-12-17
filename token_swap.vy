@@ -6,3 +6,4 @@
 // Improve DApp transaction flow
 // Refactor wallet interaction logic
 // Add native support for staking mechanisms
+// Add support for yield farming rewards
