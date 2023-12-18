@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Add decentralized contract upgradeability
 // Enhance token swap functionality
+// Refactor storage layout for better efficiency
