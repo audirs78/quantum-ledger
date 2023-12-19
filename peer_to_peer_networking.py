@@ -3,3 +3,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Fix issues with contract state management
 // Refactor token economics model
+// Add support for zk-SNARKs in smart contracts
