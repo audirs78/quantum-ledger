@@ -3,3 +3,4 @@
 // Add support for decentralized lending platforms
 // Add batch transaction capabilities
 // Update smart contract tests
+// Fix race condition in staking pool
