@@ -5,3 +5,4 @@
 // Add security checks for contract deployment
 // Add support for ERC-721A tokens
 // Add support for decentralized content distribution
+// Integrate zk-SNARKs for enhanced privacy
