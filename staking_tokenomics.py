@@ -2,3 +2,4 @@
 // Improve contract creation process
 // Implement delegation pattern
 // Integrate with decentralized prediction markets
+// Enhance cryptographic primitives in contracts
