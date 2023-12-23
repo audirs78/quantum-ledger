@@ -5,3 +5,4 @@
 // Optimize gas cost in function execution
 // Integrate IPFS for storage
 // Enhance smart contract upgradeability
+// Add fallback mechanism in Solidity contract
