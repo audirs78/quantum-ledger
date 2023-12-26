@@ -2,3 +2,4 @@
 // Improve DApp transaction flow
 // Integrate Chainlink oracles for price data
 // Add multi-chain governance support
+// Integrate zk-SNARKs for enhanced privacy
