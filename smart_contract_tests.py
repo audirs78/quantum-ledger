@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Improve multi-chain transaction processing
 // Fix compatibility issues with MetaMask
+// Implement delegation pattern
