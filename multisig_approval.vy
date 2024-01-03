@@ -2,3 +2,4 @@
 // Refactor Ethereum gas price management
 // Fix governance proposal approval logic
 // Refactor incentive structure in DeFi protocol
+// Integrate zk-rollups for scaling
