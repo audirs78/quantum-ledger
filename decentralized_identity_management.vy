@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Refactor oracle interaction logic
 // Integrate decentralized oracles for data feeds
+// Fix vulnerabilities in staking contracts
