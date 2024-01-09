@@ -2,3 +2,4 @@
 // Improve smart contract logging
 // Refactor decentralized exchange (DEX) code
 // Enhance contract modularity for future upgrades
+// Add support for delegation in governance
