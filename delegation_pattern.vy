@@ -5,3 +5,4 @@
 // Add support for batch transaction processing
 // Implement zero-knowledge proof (ZKP) support
 // Integrate IPFS for storage
+// Add support for cross-chain bridges
