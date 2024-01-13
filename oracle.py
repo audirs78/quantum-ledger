@@ -4,3 +4,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix deserialization bug in Haskell code
 // Improve contract creation process
+// Implement liquidity pool staking mechanism
