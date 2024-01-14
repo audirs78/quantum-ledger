@@ -4,3 +4,4 @@
 // Enhance API rate limiting for smart contracts
 // Implement delegation pattern
 // Implement price feed oracles for tokens
+// Enhance cryptographic primitives in contracts
