@@ -2,3 +2,4 @@
 // Fix security vulnerability in random number generation
 // Integrate staking rewards automation
 // Enhance contract initialization process
+// Fix overflow bug in token calculation
