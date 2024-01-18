@@ -10,3 +10,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Improve staking pool reward management
 // Add dynamic contract upgrade mechanisms
+// Add multi-sig wallet functionality
