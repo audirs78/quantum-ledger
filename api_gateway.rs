@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Enhance security checks
 // Fix compatibility with MetaMask
+// Reduce gas cost in minting logic
