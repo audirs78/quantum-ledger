@@ -6,3 +6,4 @@
 // Implement emergency stop mechanism
 // Optimize gas usage in contract execution
 // Integrate staking rewards automation
+// Integrate zk-rollups for scaling
