@@ -3,3 +3,4 @@
 // Enhance security checks
 // Fix issues in token transfer logic
 // Refactor contract to use EIP-712 signatures
+// Integrate automated market maker (AMM) logic
