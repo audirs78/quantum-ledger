@@ -3,3 +3,4 @@
 // Refactor contract event emission
 // Fix compatibility issues with major wallets
 // Fix wallet interaction issues in DeFi protocols
+// Bugfix: incorrect reward calculation
