@@ -3,3 +3,4 @@
 // Optimize gas usage in contract execution
 // Refactor reward pooling algorithm
 // Integrate privacy-enhancing smart contracts
+// Add multi-chain governance support
