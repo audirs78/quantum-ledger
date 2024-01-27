@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Enhance smart contract upgradeability
 // Add fallback mechanism in Solidity contract
+// Add support for decentralized auctions
