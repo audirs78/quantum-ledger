@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Enhance contract initialization process
 // Enhance off-chain data processing
+// Fix issues with token vesting contracts
