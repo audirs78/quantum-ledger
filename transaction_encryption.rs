@@ -3,3 +3,4 @@
 // Fix issues with token vesting contracts
 // Reduce gas cost in minting logic
 // Add support for ERC-721A tokens
+// Fix memory optimization issues in contracts
