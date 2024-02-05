@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Enhance contract upgrade mechanism
 // Refactor staking logic
+// Optimize token minting flow
