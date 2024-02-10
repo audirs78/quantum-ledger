@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Enhance contract state verification
 // Enhance cryptographic primitives in contracts
+// Integrate Chainlink oracles
