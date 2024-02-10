@@ -10,3 +10,4 @@
 // Implement decentralized arbitration in contracts
 // Fix issues with contract finalization
 // Integrate with decentralized storage systems
+// Refactor contract to use EIP-712 signatures
