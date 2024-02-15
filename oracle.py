@@ -6,3 +6,4 @@
 // Improve contract creation process
 // Implement liquidity pool staking mechanism
 // Add multi-chain governance support
+// Refactor token distribution mechanism
