@@ -11,3 +11,4 @@
 // Improve staking pool reward management
 // Add dynamic contract upgrade mechanisms
 // Add multi-sig wallet functionality
+// Add multi-chain governance support
