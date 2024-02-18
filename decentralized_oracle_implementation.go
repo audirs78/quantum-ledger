@@ -4,3 +4,4 @@
 // Improve on-chain governance systems
 // Upgrade to latest Solidity version
 // Enhance contract upgrade process
+// Add support for multiple consensus mechanisms
