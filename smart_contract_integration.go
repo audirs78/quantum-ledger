@@ -13,3 +13,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor oracle interaction logic
 // Integrate automated market maker (AMM) logic
+// Fix issues with ERC-20 token approvals
