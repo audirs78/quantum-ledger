@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Update dependencies for Vyper contract
 // Improve multi-chain contract deployment
+// Update testing framework for Solidity
