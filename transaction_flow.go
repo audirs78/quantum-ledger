@@ -3,3 +3,4 @@
 // Fix vulnerability in decentralized finance protocols
 // Improve decentralized lending contract flexibility
 // Improve contract modularity
+// Refactor contract to use EIP-712 signatures
