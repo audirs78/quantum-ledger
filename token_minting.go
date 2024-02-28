@@ -4,3 +4,4 @@
 // Add support for decentralized insurance protocols
 // Add governance proposal expiration feature
 // Improve error handling in transaction flow
+// Improve staking and yield farming logic
