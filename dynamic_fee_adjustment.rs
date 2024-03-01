@@ -3,3 +3,4 @@
 // Integrate with external blockchain networks
 // Refactor staking logic
 // Improve oracle data validation mechanisms
+// Implement delegation pattern
