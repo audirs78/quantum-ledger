@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Refactor validator reward system
 // Fix errors in contract interaction with wallets
+// Add native support for staking mechanisms
