@@ -7,3 +7,4 @@
 // Optimize gas usage in contract execution
 // Integrate staking rewards automation
 // Integrate zk-rollups for scaling
+// Fix memory leak in Rust smart contract
