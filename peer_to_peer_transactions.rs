@@ -3,3 +3,4 @@
 // Add support for NFT marketplaces
 // Optimize hashing algorithm
 // Fix scalability issues with smart contracts
+// Enhance privacy features using zk-STARKs
