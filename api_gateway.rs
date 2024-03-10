@@ -6,3 +6,4 @@
 // Enhance security checks
 // Fix compatibility with MetaMask
 // Reduce gas cost in minting logic
+// Add support for multi-signature wallet contracts
