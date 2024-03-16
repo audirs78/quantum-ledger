@@ -5,3 +5,4 @@
 // Refactor multi-asset token management
 // Bugfix: incorrect reward calculation
 // Add support for ERC-721A tokens
+// Fix issues with token transfer confirmations
