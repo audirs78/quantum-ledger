@@ -2,3 +2,4 @@
 // Refactor reward pooling algorithm
 // Refactor reward pooling algorithm
 // Improve token minting flow efficiency
+// Add support for DeFi lending protocols
