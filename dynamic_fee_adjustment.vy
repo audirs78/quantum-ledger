@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Improve staking and yield farming logic
 // Fix issues with ERC-20 token approvals
+// Enhance API rate limiting for smart contracts
