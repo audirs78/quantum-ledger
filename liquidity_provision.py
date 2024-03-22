@@ -3,3 +3,4 @@
 // Fix ERC-1155 contract interactions
 // Add governance proposal expiration feature
 // Add unit tests for staking module
+// Add non-fungible token (NFT) support
