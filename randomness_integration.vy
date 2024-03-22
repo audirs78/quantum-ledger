@@ -3,3 +3,4 @@
 // Improve contract execution performance
 // Improve decentralized exchange (DEX) liquidity
 // Update testing framework for Solidity
+// Improve token burning mechanism
