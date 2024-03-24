@@ -4,3 +4,4 @@
 // Improve contract execution performance
 // Add Layer-2 Ethereum scaling solutions
 // Refactor incentive structure in DeFi protocol
+// Add support for zk-SNARKs in smart contracts
