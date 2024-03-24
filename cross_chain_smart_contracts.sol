@@ -3,3 +3,4 @@
 // Fix bugs in decentralized exchange routing
 // Enhance governance contract flexibility
 // Optimize cross-chain bridging mechanisms
+// Add support for ERC-721A tokens
