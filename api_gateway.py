@@ -5,3 +5,4 @@
 // Fix errors in NFT minting logic
 // Fix issues with token transfer confirmations
 // Improve scalability for smart contract platforms
+// Improve decentralized exchange (DEX) liquidity
