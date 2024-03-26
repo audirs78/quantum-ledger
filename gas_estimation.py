@@ -3,3 +3,4 @@
 // Optimize contract storage for gas reduction
 // Refactor token economics model
 // Optimize gas cost in function execution
+// Add governance proposal expiration feature
