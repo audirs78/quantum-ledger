@@ -5,3 +5,4 @@
 // Integrate automated market maker (AMM) logic
 // Add unit tests for staking module
 // Integrate Chainlink VRF for randomness
+// Fix edge case in unstaking logic
