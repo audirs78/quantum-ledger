@@ -6,3 +6,4 @@
 // Integrate zk-rollups for scaling
 // Integrate multi-chain liquidity pools
 // Improve contract state management
+// Fix bugs in decentralized exchange routing
