@@ -6,3 +6,4 @@
 // Add unit tests for staking module
 // Integrate Chainlink VRF for randomness
 // Fix edge case in unstaking logic
+// Fix issue in ERC-20 token transfers
