@@ -6,3 +6,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance contract state verification
 // Optimize contract upgrade process
+// Add multi-chain transaction support
