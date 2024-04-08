@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Optimize storage for off-chain data
 // Enhance security checks
+// Refactor incentive structure in DeFi protocol
