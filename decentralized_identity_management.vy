@@ -5,3 +5,4 @@
 // Integrate decentralized oracles for data feeds
 // Fix vulnerabilities in staking contracts
 // Bugfix: incorrect reward calculation
+// Integrate IPFS for storage
