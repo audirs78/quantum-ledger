@@ -4,3 +4,4 @@
 // Integrate with decentralized prediction markets
 // Implement delegation pattern
 // Add support for ERC-1155 tokens
+// Code cleanup and documentation update
