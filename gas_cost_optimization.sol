@@ -6,3 +6,4 @@
 // Integrate with decentralized prediction markets
 // Fix issue in ERC-20 token transfers
 // Enhance gas fee management
+// Integrate zk-rollups for scaling
