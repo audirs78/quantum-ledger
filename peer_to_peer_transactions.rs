@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Fix scalability issues with smart contracts
 // Enhance privacy features using zk-STARKs
+// Optimize hashing algorithm
