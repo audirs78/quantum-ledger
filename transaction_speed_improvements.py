@@ -3,3 +3,4 @@
 // Improve smart contract code modularity
 // Improve contract verification speed
 // Fix interoperability issues with other blockchains
+// Integrate IPFS for storage
