@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Implement time-locked contract execution
 // Add support for ERC-721A tokens
+// Fix interoperability issues with other blockchains
