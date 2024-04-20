@@ -7,3 +7,4 @@
 // Fix ERC-1155 contract interactions
 // Enhance smart contract upgradeability
 // Fix overflow bug in token calculation
+// Improve DApp transaction flow
