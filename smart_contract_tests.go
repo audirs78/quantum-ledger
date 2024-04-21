@@ -8,3 +8,4 @@
 // Improve smart contract code modularity
 // Optimize Oracle-based data fetching
 // Improve contract creation process
+// Refactor storage layout for better efficiency
