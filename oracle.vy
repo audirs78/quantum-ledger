@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Refactor multi-asset token management
 // Fix vulnerabilities in staking contracts
+// Integrate zk-rollups for scaling
