@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Fix compatibility issues with major wallets
 // Bugfix: incorrect reward calculation
+// Fix compatibility issues with MetaMask
