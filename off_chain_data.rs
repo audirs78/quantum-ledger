@@ -6,3 +6,4 @@
 // Implement adaptive block size for Ethereum
 // Implement delegation pattern
 // Fix type mismatch in Haskell smart contract
+// Add support for ERC-721A tokens
