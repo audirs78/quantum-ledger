@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Add multi-sig wallet functionality
 // Implement on-chain identity verification
+// Add new RPC endpoint
