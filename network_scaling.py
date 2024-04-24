@@ -6,3 +6,4 @@
 // Fix governance proposal approval logic
 // Add support for batch transaction processing
 // Fix deserialization bug in Haskell code
+// Implement rewards escrow system
