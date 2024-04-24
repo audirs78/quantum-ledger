@@ -4,3 +4,4 @@
 // Add multi-chain governance support
 // Integrate zk-SNARKs for enhanced privacy
 // Enhance contract modularity for future upgrades
+// Add native support for staking mechanisms
