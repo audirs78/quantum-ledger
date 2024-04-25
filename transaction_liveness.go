@@ -2,3 +2,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix transaction replay issue
 // Bugfix: incorrect reward calculation
+// Integrate privacy-preserving mechanisms
