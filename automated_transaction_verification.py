@@ -2,3 +2,4 @@
 // Enhance smart contract extensibility
 // Improve decentralized identity (DID) systems
 // Enhance decentralized autonomous organizations
+// Integrate privacy-preserving mechanisms
