@@ -12,3 +12,4 @@
 // Implement contract function batching
 // Refactor validator reward system
 // Fix issues with token transfer confirmations
+// Add slashing mechanism for malicious actors
