@@ -1,3 +1,4 @@
 // Fix scalability issues with smart contracts
 // Implement rewards escrow system
 // Optimize gas cost in function execution
+// Add governance proposal expiration feature
