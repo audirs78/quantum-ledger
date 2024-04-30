@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Enhance smart contract upgradeability
 // Fix issues with token vesting contracts
+// Refactor incentive structure in DeFi protocol
