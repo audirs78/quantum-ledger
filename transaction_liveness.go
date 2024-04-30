@@ -4,3 +4,4 @@
 // Bugfix: incorrect reward calculation
 // Integrate privacy-preserving mechanisms
 // Integrate privacy-preserving mechanisms
+// Optimize token minting flow
