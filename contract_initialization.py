@@ -4,3 +4,4 @@
 // Enhance logging for better debugging
 // Fix issues in token transfer logic
 // Add multi-sig wallet functionality
+// Enhance contract interaction APIs
