@@ -6,3 +6,4 @@
 // Fix vulnerabilities in staking contracts
 // Bugfix: incorrect reward calculation
 // Integrate IPFS for storage
+// Fix ERC-721 contract issues with transfers
