@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Enhance smart contract extensibility
 // Optimize token withdrawal logic
+// Optimize WASM compilation for Go contracts
