@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Implement adaptive block size for Ethereum
 // Fix compatibility with MetaMask
+// Add support for zk-SNARKs in smart contracts
