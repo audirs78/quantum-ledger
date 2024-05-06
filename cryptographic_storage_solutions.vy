@@ -2,3 +2,4 @@
 // Fix memory leak in Rust smart contract
 // Optimize WASM compilation for Go contracts
 // Add support for ERC-721A tokens
+// Fix bugs in decentralized exchange routing
