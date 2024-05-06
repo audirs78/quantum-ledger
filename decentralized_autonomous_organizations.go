@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Fix wallet interaction issues in DeFi protocols
 // Add new feature: on-chain governance
+// Fix governance proposal approval logic
