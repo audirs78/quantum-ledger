@@ -8,3 +8,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize oracle data fetching mechanism
 // Improve gas estimation for transactions
+// Enhance privacy features using zk-STARKs
