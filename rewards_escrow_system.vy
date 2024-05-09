@@ -4,3 +4,4 @@
 // Add batch transaction capabilities
 // Update smart contract tests
 // Fix race condition in staking pool
+// Add automated smart contract testing
