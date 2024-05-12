@@ -3,3 +3,4 @@
 // Fix errors in NFT minting logic
 // Improve contract verification speed
 // Enhance gas fee management
+// Fix race condition in staking pool
