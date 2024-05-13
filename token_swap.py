@@ -3,3 +3,4 @@
 // Integrate chain-agnostic oracles
 // Enhance contract initialization process
 // Add batch transaction capabilities
+// Refactor contract to use EIP-712 signatures
