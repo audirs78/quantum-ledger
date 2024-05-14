@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Enhance contract modularity
 // Optimize hashing algorithm
+// Add support for Layer-2 solutions
