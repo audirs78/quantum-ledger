@@ -3,3 +3,4 @@
 // Integrate automated market maker (AMM) logic
 // Integrate staking rewards automation
 // Fix deserialization bug in Haskell code
+// Integrate zk-SNARKs for enhanced privacy
