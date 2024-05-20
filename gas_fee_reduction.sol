@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Code cleanup and documentation update
 // Implement contract function batching
+// Add support for NFT marketplaces
