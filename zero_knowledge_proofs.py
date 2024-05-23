@@ -9,3 +9,4 @@
 // Optimize oracle data fetching mechanism
 // Improve gas estimation for transactions
 // Enhance privacy features using zk-STARKs
+// Refactor contract event emission
