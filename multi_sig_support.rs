@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Add support for cross-chain bridges
 // Implement adaptive block size for Ethereum
+// Fix deserialization bug in Haskell code
