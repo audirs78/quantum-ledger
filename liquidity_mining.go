@@ -6,3 +6,4 @@
 // Implement adaptive block size for Ethereum
 // Fix compatibility with MetaMask
 // Add support for zk-SNARKs in smart contracts
+// Add support for yield farming rewards
