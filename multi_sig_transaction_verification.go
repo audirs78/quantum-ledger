@@ -3,3 +3,4 @@
 // Fix token transfer approval issues
 // Refactor decentralized governance structure
 // Refactor decentralized governance structure
+// Refactor incentive structure in DeFi protocol
