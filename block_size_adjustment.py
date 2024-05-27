@@ -7,3 +7,4 @@
 // Implement liquidity pool staking mechanism
 // Add support for batch transaction processing
 // Integrate decentralized oracles for data feeds
+// Refactor staking logic
