@@ -2,3 +2,4 @@
 // Optimize WASM compilation for Go contracts
 // Enhance transaction monitoring
 // Improve contract execution speed
+// Add new RPC endpoint
