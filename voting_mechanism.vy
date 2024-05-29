@@ -3,3 +3,4 @@
 // Integrate with external blockchain networks
 // Add new RPC endpoint
 // Improve contract interaction via APIs
+// Implement delegation pattern
