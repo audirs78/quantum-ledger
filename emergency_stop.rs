@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Add support for NFT marketplaces
 // Optimize token minting flow
+// Implement zero-knowledge proof (ZKP) support
