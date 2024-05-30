@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Upgrade to latest Solidity version
 // Implement on-chain identity verification
+// Integrate IPFS for storage
