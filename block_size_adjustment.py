@@ -8,3 +8,4 @@
 // Add support for batch transaction processing
 // Integrate decentralized oracles for data feeds
 // Refactor staking logic
+// Fix errors in contract interaction with wallets
