@@ -9,3 +9,4 @@
 // Integrate decentralized oracles for data feeds
 // Refactor staking logic
 // Fix errors in contract interaction with wallets
+// Refactor multi-signature wallet code
