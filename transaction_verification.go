@@ -3,3 +3,4 @@
 // Refactor voting mechanism
 // Refactor validator reward system
 // Fix issue in token vesting logic
+// Fix issues with contract finalization
