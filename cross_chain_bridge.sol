@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Improve token burning mechanism
 // Improve token burning mechanism
+// Add support for decentralized lending platforms
