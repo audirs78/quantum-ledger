@@ -4,3 +4,4 @@
 // Implement contract function batching
 // Integrate IPFS for storage
 // Improve decentralized identity (DID) systems
+// Add support for cross-chain bridges
