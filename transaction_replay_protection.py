@@ -7,3 +7,4 @@
 // Enhance contract upgrade mechanism
 // Add support for DeFi lending protocols
 // Optimize token withdrawal logic
+// Fix governance proposal approval logic
