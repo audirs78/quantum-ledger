@@ -2,3 +2,4 @@
 // Enhance smart contract audit tools
 // Fix bugs in decentralized exchange routing
 // Add support for batch transaction processing
+// Bugfix: incorrect reward calculation
