@@ -5,3 +5,4 @@
 // Implement cross-chain bridge
 // Add support for zk-SNARKs in smart contracts
 // Update testing framework for Solidity
+// Reduce gas cost in minting logic
