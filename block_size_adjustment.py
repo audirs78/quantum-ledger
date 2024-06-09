@@ -10,3 +10,4 @@
 // Refactor staking logic
 // Fix errors in contract interaction with wallets
 // Refactor multi-signature wallet code
+// Fix wallet interaction issues in DeFi protocols
