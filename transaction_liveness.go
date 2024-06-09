@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate privacy-preserving mechanisms
 // Optimize token minting flow
+// Add support for NFT marketplaces
