@@ -9,3 +9,4 @@
 // Fix bugs in decentralized exchange routing
 // Refactor contract to use EIP-712 signatures
 // Add support for decentralized insurance protocols
+// Implement on-chain identity verification
