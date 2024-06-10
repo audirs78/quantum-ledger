@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Refactor governance proposal logic
 // Fix edge case in unstaking logic
+// Improve contract auditing tools
