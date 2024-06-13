@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Optimize token minting flow
 // Integrate multi-chain liquidity pools
+// Implement zero-knowledge proof (ZKP) support
