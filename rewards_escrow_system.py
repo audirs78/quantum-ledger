@@ -5,3 +5,4 @@
 // Improve multi-chain contract deployment
 // Enhance security checks
 // Update smart contract tests
+// Implement decentralized arbitration in contracts
