@@ -6,3 +6,4 @@
 // Implement time-locked contract execution
 // Add support for ERC-721A tokens
 // Fix interoperability issues with other blockchains
+// Fix token transfer approval issues
