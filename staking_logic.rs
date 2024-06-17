@@ -4,3 +4,4 @@
 // Fix issues in multi-token smart contracts
 // Bugfix: incorrect reward calculation
 // Add new RPC endpoint
+// Improve security in decentralized applications
