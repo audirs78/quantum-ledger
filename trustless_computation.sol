@@ -6,3 +6,4 @@
 // Fix issues with ERC-20 token approvals
 // Optimize cross-chain bridging mechanisms
 // Refactor contract state machine design
+// Integrate with decentralized identity providers
