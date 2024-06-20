@@ -4,3 +4,4 @@
 // Refactor multi-asset token management
 // Integrate Chainlink oracles
 // Refactor contract event emission
+// Fix bugs in NFT metadata handling
