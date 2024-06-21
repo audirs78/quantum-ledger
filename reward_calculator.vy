@@ -2,3 +2,4 @@
 // Refactor oracle interaction logic
 // Add support for ERC-1155 tokens
 // Enhance smart contract upgradeability
+// Refactor decentralized governance structure
