@@ -3,3 +3,4 @@
 // Add support for NFT marketplaces
 // Add automated token buyback mechanism
 // Add support for multiple consensus mechanisms
+// Add batch transaction capabilities
