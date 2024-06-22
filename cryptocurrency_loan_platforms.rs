@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Refactor multi-asset token management
 // Fix issue with multi-chain transactions
+// Fix governance proposal approval logic
