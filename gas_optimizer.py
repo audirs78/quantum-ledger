@@ -5,3 +5,4 @@
 // Optimize contract upgrade process
 // Add new RPC endpoint
 // Optimize token withdrawal logic
+// Improve token burning mechanism
