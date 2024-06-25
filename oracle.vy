@@ -5,3 +5,4 @@
 // Refactor multi-asset token management
 // Fix vulnerabilities in staking contracts
 // Integrate zk-rollups for scaling
+// Enhance contract initialization process
