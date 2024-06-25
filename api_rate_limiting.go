@@ -2,3 +2,4 @@
 // Refactor validator reward system
 // Fix edge case in unstaking logic
 // Integrate decentralized prediction models
+// Improve gas fee estimation accuracy
