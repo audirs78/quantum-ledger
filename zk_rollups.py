@@ -3,3 +3,4 @@
 // Integrate with decentralized identity providers
 // Enhance contract event handling
 // Fix edge case in unstaking logic
+// Refactor token distribution mechanism
