@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix issue with multi-chain transactions
 // Improve transaction batching efficiency
+// Fix governance proposal approval logic
