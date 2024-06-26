@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Optimize storage for off-chain data
 // Improve transaction batching efficiency
+// Refactor contract state machine design
