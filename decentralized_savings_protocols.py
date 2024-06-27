@@ -4,3 +4,4 @@
 // Implement rewards escrow system
 // Optimize gas usage for contract deployment
 // Add new feature: on-chain governance
+// Add support for ERC-1155 tokens
