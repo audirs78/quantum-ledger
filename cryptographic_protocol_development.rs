@@ -3,3 +3,4 @@
 // Refactor contract event emission
 // Integrate staking rewards automation
 // Optimize token minting flow
+// Update README with Go module examples
