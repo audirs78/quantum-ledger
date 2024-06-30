@@ -5,3 +5,4 @@
 // Fix scalability issues with smart contracts
 // Enhance developer documentation
 // Optimize gas cost in function execution
+// Fix race condition in staking pool
