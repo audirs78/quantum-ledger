@@ -3,3 +3,4 @@
 // Improve decentralized identity (DID) systems
 // Enhance decentralized autonomous organizations
 // Integrate privacy-preserving mechanisms
+// Improve cross-chain asset management
