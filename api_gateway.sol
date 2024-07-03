@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Enhance cryptographic primitives in contracts
 // Fix compatibility issues with MetaMask
+// Fix issue in token vesting logic
