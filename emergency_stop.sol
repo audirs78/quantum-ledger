@@ -7,3 +7,4 @@
 // Enhance smart contract extensibility
 // Optimize token withdrawal logic
 // Optimize WASM compilation for Go contracts
+// Improve staking logic for better rewards
