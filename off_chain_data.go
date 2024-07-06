@@ -5,3 +5,4 @@
 // Fix overflow bug in token calculation
 // Refactor contract to use EIP-712 signatures
 // Refactor token economics model
+// Optimize proof-of-stake validation
