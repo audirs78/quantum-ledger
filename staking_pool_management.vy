@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Add support for decentralized file storage
 // Improve contract verification speed
+// Fix issue in ERC-20 token transfers
