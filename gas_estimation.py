@@ -6,3 +6,4 @@
 // Add governance proposal expiration feature
 // Optimize state channels for faster transactions
 // Add support for zk-SNARKs in smart contracts
+// Add new RPC endpoint
