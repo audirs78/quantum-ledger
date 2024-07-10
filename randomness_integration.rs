@@ -9,3 +9,4 @@
 // Fix token transfer approval issues
 // Optimize gas usage for contract deployment
 // Fix edge case in unstaking logic
+// Add support for multiple consensus mechanisms
