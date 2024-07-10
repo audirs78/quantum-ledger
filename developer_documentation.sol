@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix transaction replay issue
 // Optimize contract upgrade process
+// Refactor governance token logic
