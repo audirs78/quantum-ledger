@@ -3,3 +3,4 @@
 // Integrate with decentralized storage systems
 // Add support for Layer-2 solutions
 // Fix compatibility with MetaMask
+// Enhance logging for better debugging
