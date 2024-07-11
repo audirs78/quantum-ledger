@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor token economics model
 // Optimize proof-of-stake validation
+// Integrate IPFS for storage
