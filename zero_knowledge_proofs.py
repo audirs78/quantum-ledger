@@ -11,3 +11,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor contract event emission
 // Fix issue with multi-chain transactions
+// Fix errors in NFT minting logic
