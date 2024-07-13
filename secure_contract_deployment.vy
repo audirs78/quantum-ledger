@@ -4,3 +4,4 @@
 // Enhance contract state verification
 // Enhance cryptographic primitives in contracts
 // Integrate Chainlink oracles
+// Fix governance proposal approval logic
