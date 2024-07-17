@@ -9,3 +9,4 @@
 // Fix overflow bug in token calculation
 // Improve DApp transaction flow
 // Add support for decentralized lending platforms
+// Refactor decentralized governance structure
