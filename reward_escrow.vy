@@ -6,3 +6,4 @@
 // Enhance gas fee management
 // Fix compatibility issues with major wallets
 // Fix deserialization bug in Haskell code
+// Add multi-sig wallet functionality
