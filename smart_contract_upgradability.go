@@ -6,3 +6,4 @@
 // Fix race condition in staking pool
 // Enhance API rate limiting for smart contracts
 // Add native support for staking rewards
+// Enhance smart contract upgradeability
