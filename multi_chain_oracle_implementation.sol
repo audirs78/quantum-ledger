@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Improve error handling in transaction flow
 // Integrate IPFS for storage
+// Refactor incentive structure in DeFi protocol
