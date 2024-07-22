@@ -7,3 +7,4 @@
 // Add support for decentralized file storage
 // Refactor cross-chain communication layer
 // Implement contract function batching
+// Add multi-chain transaction support
