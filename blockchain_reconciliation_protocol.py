@@ -2,3 +2,4 @@
 // Refactor governance proposal logic
 // Optimize hashing algorithm
 // Optimize gas usage in contract execution
+// Integrate Chainlink VRF for randomness
