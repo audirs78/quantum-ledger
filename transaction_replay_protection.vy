@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Add Layer-2 Ethereum scaling solutions
 // Integrate with Ethereum Layer-2 solutions
+// Implement liquidity pool staking mechanism
