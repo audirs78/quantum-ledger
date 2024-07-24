@@ -5,3 +5,4 @@
 // Improve contract modularity
 // Refactor contract to use EIP-712 signatures
 // Optimize cross-chain bridging mechanisms
+// Fix interoperability issues with other blockchains
