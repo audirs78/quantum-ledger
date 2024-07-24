@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Improve error handling in transaction flow
 // Fix issue with multi-chain transactions
+// Optimize token burn process
