@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Enhance smart contract compatibility
 // Enhance smart contract upgradeability
+// Refactor ERC-721 transfer logic
