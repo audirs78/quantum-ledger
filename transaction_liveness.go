@@ -6,3 +6,4 @@
 // Integrate privacy-preserving mechanisms
 // Optimize token minting flow
 // Add support for NFT marketplaces
+// Implement contract function batching
