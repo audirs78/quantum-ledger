@@ -4,3 +4,4 @@
 // Optimize proof-of-stake validation
 // Fix scalability issues with smart contracts
 // Add support for yield farming rewards
+// Add support for decentralized credit scoring
