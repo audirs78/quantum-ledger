@@ -7,3 +7,4 @@
 // Optimize state channels for faster transactions
 // Add support for zk-SNARKs in smart contracts
 // Add new RPC endpoint
+// Integrate chain-agnostic oracles
