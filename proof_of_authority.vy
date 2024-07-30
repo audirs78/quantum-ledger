@@ -6,3 +6,4 @@
 // Enhance smart contract state changes monitoring
 // Add support for decentralized lending platforms
 // Update dependencies for Vyper contract
+// Fix vulnerabilities in staking contracts
