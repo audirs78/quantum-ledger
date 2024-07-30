@@ -5,3 +5,4 @@
 // Bugfix: incorrect reward calculation
 // Add new RPC endpoint
 // Improve security in decentralized applications
+// Integrate with decentralized prediction markets
