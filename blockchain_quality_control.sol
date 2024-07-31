@@ -2,3 +2,4 @@
 // Fix interoperability issues with other blockchains
 // Add slashing mechanism for malicious actors
 // Enhance contract initialization process
+// Integrate IPFS for storage
