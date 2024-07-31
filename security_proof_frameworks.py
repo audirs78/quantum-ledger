@@ -4,3 +4,4 @@
 // Enhance smart contract upgradeability
 // Implement rewards escrow system
 // Improve smart contract logging
+// Fix race condition in staking pool
