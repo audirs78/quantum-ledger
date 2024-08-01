@@ -3,3 +3,4 @@
 // Improve cross-chain asset management
 // Improve smart contract code modularity
 // Integrate automated market maker (AMM) logic
+// Refactor voting mechanism
