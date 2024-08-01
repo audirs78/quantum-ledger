@@ -7,3 +7,4 @@
 // Add support for cross-chain bridges
 // Add support for multiple consensus mechanisms
 // Optimize hashing algorithm
+// Update README with Go module examples
