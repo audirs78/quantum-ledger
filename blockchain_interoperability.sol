@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Improve API rate limiting
 // Integrate with decentralized identity providers
+// Add batch transaction capabilities
