@@ -2,3 +2,4 @@
 // Refactor smart contract testing framework
 // Implement delegation pattern
 // Fix errors in contract interaction with wallets
+// Improve token minting flow efficiency
