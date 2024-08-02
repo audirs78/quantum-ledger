@@ -5,3 +5,4 @@
 // Update testing framework for Solidity
 // Improve token burning mechanism
 // Optimize token withdrawal logic
+// Enhance privacy features using zk-STARKs
