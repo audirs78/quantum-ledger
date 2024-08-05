@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Fix interoperability issues with other blockchains
 // Implement rewards escrow system
+// Refactor reward pooling algorithm
