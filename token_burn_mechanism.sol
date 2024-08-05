@@ -3,3 +3,4 @@
 // Enhance contract initialization process
 // Add support for ERC-721A tokens
 // Add security checks for contract deployment
+// Fix issues with contract finalization
