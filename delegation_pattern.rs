@@ -6,3 +6,4 @@
 // Add native support for staking mechanisms
 // Optimize proof-of-stake validation
 // Improve security in decentralized applications
+// Refactor governance token logic
