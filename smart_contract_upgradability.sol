@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Refactor decentralized storage system
 // Update testing framework for Solidity
+// Add Layer-2 Ethereum scaling solutions
