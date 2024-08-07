@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Fix issues in multi-token smart contracts
 // Integrate Chainlink VRF for randomness
+// Refactor contract event emission
