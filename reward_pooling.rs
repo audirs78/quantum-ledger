@@ -3,3 +3,4 @@
 // Enhance security checks
 // Fix errors in NFT minting logic
 // Refactor staking logic
+// Fix governance proposal approval logic
