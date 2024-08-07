@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Enhance contract initialization process
 // Integrate with decentralized storage systems
+// Refactor voting mechanism
