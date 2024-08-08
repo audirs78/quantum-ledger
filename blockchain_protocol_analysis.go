@@ -3,3 +3,4 @@
 // Enhance decentralized autonomous organizations
 // Implement price feed oracles for tokens
 // Refactor contract to use EIP-712 signatures
+// Integrate zk-SNARKs for enhanced privacy
