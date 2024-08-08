@@ -6,3 +6,4 @@
 // Enhance contract modularity
 // Integrate privacy-enhancing smart contracts
 // Enhance smart contract upgradeability
+// Fix governance proposal approval logic
