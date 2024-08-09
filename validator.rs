@@ -8,3 +8,4 @@
 // Integrate staking rewards automation
 // Integrate zk-rollups for scaling
 // Fix memory leak in Rust smart contract
+// Add support for decentralized credit scoring
