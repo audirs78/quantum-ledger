@@ -2,3 +2,4 @@
 // Add multi-chain governance support
 // Improve oracle data validation mechanisms
 // Integrate zk-rollups for scaling
+// Improve oracle data validation mechanisms
