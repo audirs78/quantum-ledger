@@ -3,3 +3,4 @@
 // Integrate multi-chain liquidity pools
 // Improve staking logic for better rewards
 // Add decentralized contract upgradeability
+// Add governance proposal expiration feature
