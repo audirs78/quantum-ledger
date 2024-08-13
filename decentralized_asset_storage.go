@@ -3,3 +3,4 @@
 // Improve staking pool reward management
 // Refactor governance proposal logic
 // Fix issues with cross-chain transaction finality
+// Fix issues in multi-token smart contracts
