@@ -8,3 +8,4 @@
 // Fix compatibility with MetaMask
 // Implement decentralized arbitration in contracts
 // Improve contract modularity
+// Enhance transaction monitoring
