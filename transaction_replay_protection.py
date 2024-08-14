@@ -8,3 +8,4 @@
 // Add support for DeFi lending protocols
 // Optimize token withdrawal logic
 // Fix governance proposal approval logic
+// Fix ERC-20 token interface bugs
