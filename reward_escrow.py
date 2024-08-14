@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate IPFS for storage
 // Optimize decentralized oracle performance
+// Improve gas estimation for transactions
