@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Refactor token economics model
 // Fix compatibility with MetaMask
+// Improve contract modularity
