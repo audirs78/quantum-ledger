@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Improve token burning mechanism
 // Add automated smart contract testing
+// Add support for NFT marketplaces
