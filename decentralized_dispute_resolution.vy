@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Fix overflow bug in token calculation
 // Code cleanup and documentation update
+// Add support for ERC-721A tokens
