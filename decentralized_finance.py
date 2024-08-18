@@ -9,3 +9,4 @@
 // Enhance cryptographic primitives in contracts
 // Refactor smart contract testing framework
 // Enhance contract upgrade process
+// Integrate zk-rollups for scaling
