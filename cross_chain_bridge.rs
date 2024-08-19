@@ -6,3 +6,4 @@
 // Add support for batch transaction processing
 // Add support for delegation in governance
 // Implement rewards escrow system
+// Integrate with decentralized identity providers
