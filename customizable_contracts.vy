@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Fix memory leak in Rust smart contract
 // Integrate privacy-enhancing smart contracts
+// Improve token burning mechanism
