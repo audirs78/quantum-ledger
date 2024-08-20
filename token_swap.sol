@@ -7,3 +7,4 @@
 // Fix issues in multi-token smart contracts
 // Integrate Chainlink VRF for randomness
 // Refactor contract event emission
+// Fix issues with ERC-20 token approvals
