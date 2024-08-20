@@ -7,3 +7,4 @@
 // Add support for delegation in governance
 // Implement rewards escrow system
 // Integrate with decentralized identity providers
+// Fix type mismatch in Haskell smart contract
