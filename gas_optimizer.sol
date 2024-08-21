@@ -8,3 +8,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Improve contract auditing tools
 // Fix overflow bug in token calculation
+// Fix errors in contract interaction with wallets
