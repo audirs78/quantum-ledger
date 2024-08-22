@@ -6,3 +6,4 @@
 // Improve API rate limiting
 // Integrate with decentralized identity providers
 // Add batch transaction capabilities
+// Add support for delegation in governance
