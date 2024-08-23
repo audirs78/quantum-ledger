@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Optimize token minting flow
 // Fix bug in random number generation
+// Improve staking pool reward management
