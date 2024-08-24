@@ -2,3 +2,4 @@
 // Add support for yield farming rewards
 // Add support for ERC-1155 tokens
 // Implement delegation pattern
+// Refactor token distribution mechanism
