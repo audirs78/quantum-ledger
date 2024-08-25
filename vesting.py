@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Code cleanup and documentation update
 // Implement contract function batching
+// Add multi-chain governance support
