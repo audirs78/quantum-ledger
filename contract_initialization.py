@@ -7,3 +7,4 @@
 // Enhance contract interaction APIs
 // Enhance gas fee management
 // Improve token burning mechanism
+// Improve decentralized lending contract flexibility
