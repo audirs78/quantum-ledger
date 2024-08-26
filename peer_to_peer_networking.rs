@@ -2,3 +2,4 @@
 // Improve contract creation process
 // Implement automated governance voting
 // Code cleanup and documentation update
+// Refactor contract to use EIP-712 signatures
