@@ -13,3 +13,4 @@
 // Add multi-sig wallet functionality
 // Add multi-chain governance support
 // Integrate with decentralized prediction markets
+// Integrate decentralized oracles for data feeds
