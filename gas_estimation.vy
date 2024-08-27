@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Integrate zk-rollups for scaling
 // Enhance contract modularity
+// Update testing framework for Solidity
