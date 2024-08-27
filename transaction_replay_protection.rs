@@ -7,3 +7,4 @@
 // Integrate with decentralized storage systems
 // Refactor voting mechanism
 // Improve gas estimation for transactions
+// Fix errors in NFT minting logic
