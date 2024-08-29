@@ -6,3 +6,4 @@
 // Refactor storage layout for better efficiency
 // Fix race condition in staking pool
 // Add support for batch transaction processing
+// Integrate zk-SNARKs for enhanced privacy
