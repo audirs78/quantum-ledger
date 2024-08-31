@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Implement on-chain identity verification
 // Add new RPC endpoint
+// Add support for decentralized auctions
