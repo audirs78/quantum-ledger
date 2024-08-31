@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Enhance developer documentation
 // Optimize gas usage for contract deployment
+// Fix memory optimization issues in contracts
