@@ -7,3 +7,4 @@
 // Optimize storage for off-chain data
 // Improve transaction batching efficiency
 // Refactor contract state machine design
+// Optimize gas usage for contract deployment
