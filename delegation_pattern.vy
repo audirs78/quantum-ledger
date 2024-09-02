@@ -9,3 +9,4 @@
 // Add automated token buyback mechanism
 // Improve smart contract logging
 // Optimize contract storage for gas reduction
+// Add support for NFT marketplaces
