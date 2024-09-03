@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Improve smart contract code modularity
 // Enhance contract upgrade mechanism
+// Implement on-chain identity verification
