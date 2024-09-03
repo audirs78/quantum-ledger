@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Add support for DeFi lending protocols
 // Implement delegation pattern
+// Fix issues with contract finalization
