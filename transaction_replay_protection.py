@@ -10,3 +10,4 @@
 // Fix governance proposal approval logic
 // Fix ERC-20 token interface bugs
 // Add multi-chain governance support
+// Improve token burning mechanism
