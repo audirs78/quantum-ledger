@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Fix security vulnerability in random number generation
 // Refactor ERC-721 transfer logic
+// Add support for fractional token ownership
