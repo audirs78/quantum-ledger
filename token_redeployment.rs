@@ -4,3 +4,4 @@
 // Add support for DeFi lending protocols
 // Implement delegation pattern
 // Fix issues with contract finalization
+// Implement a new contract event system
