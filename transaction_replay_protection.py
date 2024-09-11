@@ -11,3 +11,4 @@
 // Fix ERC-20 token interface bugs
 // Add multi-chain governance support
 // Improve token burning mechanism
+// Fix compatibility issues with major wallets
