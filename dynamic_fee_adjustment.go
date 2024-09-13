@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Add support for DeFi lending protocols
 // Enhance contract event handling
+// Integrate Chainlink VRF for randomness
