@@ -10,3 +10,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add support for decentralized insurance protocols
 // Implement on-chain identity verification
+// Fix ERC-20 token interface bugs
