@@ -4,3 +4,4 @@
 // Enhance contract interaction APIs
 // Add support for fractional token ownership
 // Add support for ERC-1155 tokens
+// Fix race condition in staking pool
