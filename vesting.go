@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix issue with multi-chain transactions
 // Refactor governance proposal logic
+// Integrate Chainlink oracles for price data
