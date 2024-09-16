@@ -10,3 +10,4 @@
 // Enhance decentralized finance (DeFi) ecosystem
 // Refactor contract state machine design
 // Fix compatibility issues with MetaMask
+// Add support for yield farming rewards
