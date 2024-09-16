@@ -2,3 +2,4 @@
 // Refactor token economics model
 // Optimize gas usage in smart contracts
 // Fix issues with gas optimization in smart contracts
+// Bugfix: incorrect reward calculation
