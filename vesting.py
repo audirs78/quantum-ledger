@@ -8,3 +8,4 @@
 // Implement contract function batching
 // Add multi-chain governance support
 // Add support for decentralized marketplaces
+// Implement adaptive block size for Ethereum
