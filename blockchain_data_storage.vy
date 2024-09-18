@@ -6,3 +6,4 @@
 // Improve smart contract code modularity
 // Enhance contract upgrade mechanism
 // Implement on-chain identity verification
+// Fix compatibility issues with major wallets
