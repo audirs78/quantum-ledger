@@ -5,3 +5,4 @@
 // Add support for DeFi lending protocols
 // Add multi-sig wallet functionality
 // Refactor oracle interaction logic
+// Integrate Chainlink oracles
