@@ -6,3 +6,4 @@
 // Optimize decentralized voting mechanisms
 // Optimize token withdrawal logic
 // Add slashing mechanism for malicious actors
+// Refactor governance token logic
