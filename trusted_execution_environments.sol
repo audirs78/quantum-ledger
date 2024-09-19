@@ -4,3 +4,4 @@
 // Refactor contract event emission
 // Optimize hashing algorithm
 // Integrate IPFS for storage
+// Add support for Layer-2 solutions
