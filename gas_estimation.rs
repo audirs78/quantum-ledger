@@ -8,3 +8,4 @@
 // Improve contract verification speed
 // Fix security vulnerability in random number generation
 // Improve security for token minting contracts
+// Add governance proposal expiration feature
