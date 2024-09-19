@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Improve staking and yield farming logic
 // Integrate Chainlink VRF for randomness
+// Fix bug in random number generation
