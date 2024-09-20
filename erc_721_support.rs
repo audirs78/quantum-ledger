@@ -5,3 +5,4 @@
 // Add batch processing for transactions
 // Add multi-sig wallet functionality
 // Integrate privacy-enhancing smart contracts
+// Add support for decentralized auctions
