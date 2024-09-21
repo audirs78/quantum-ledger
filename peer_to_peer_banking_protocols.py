@@ -3,3 +3,4 @@
 // Enhance security checks
 // Add batch transaction capabilities
 // Add support for cross-chain bridges
+// Fix type mismatch in Haskell smart contract
