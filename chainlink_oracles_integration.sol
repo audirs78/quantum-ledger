@@ -4,3 +4,4 @@
 // Integrate automated market maker (AMM) logic
 // Refactor token distribution mechanism
 // Integrate Chainlink oracles
+// Integrate chain-agnostic oracles
