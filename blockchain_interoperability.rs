@@ -2,3 +2,4 @@
 // Improve gas fee estimation accuracy
 // Refactor governance proposal logic
 // Fix compatibility issues with MetaMask
+// Add automated smart contract testing
