@@ -7,3 +7,4 @@
 // Bugfix: incorrect reward calculation
 // Integrate IPFS for storage
 // Fix ERC-721 contract issues with transfers
+// Add support for decentralized marketplaces
