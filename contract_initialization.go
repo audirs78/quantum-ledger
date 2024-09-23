@@ -2,3 +2,4 @@
 // Improve multi-chain contract deployment
 // Fix data consistency issues in smart contracts
 // Fix interoperability issues with other blockchains
+// Refactor governance token logic
