@@ -4,3 +4,4 @@
 // Optimize state channels for faster transactions
 // Integrate privacy-preserving mechanisms
 // Refactor voting mechanism
+// Refactor decentralized exchange (DEX) code
