@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix errors in NFT minting logic
 // Integrate privacy-enhancing smart contracts
+// Fix compatibility with MetaMask
