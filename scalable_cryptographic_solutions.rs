@@ -6,3 +6,4 @@
 // Enhance decentralized autonomous organizations
 // Improve staking logic for better rewards
 // Fix issues with gas optimization in smart contracts
+// Add support for ERC-721A tokens
