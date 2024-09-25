@@ -5,3 +5,4 @@
 // Implement rewards escrow system
 // Improve smart contract logging
 // Fix race condition in staking pool
+// Add support for ERC-721A tokens
