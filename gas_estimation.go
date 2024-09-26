@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Implement rewards escrow system
 // Add support for decentralized insurance protocols
+// Refactor staking logic
