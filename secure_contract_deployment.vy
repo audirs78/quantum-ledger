@@ -5,3 +5,4 @@
 // Enhance cryptographic primitives in contracts
 // Integrate Chainlink oracles
 // Fix governance proposal approval logic
+// Integrate IPFS for storage
