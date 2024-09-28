@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Enhance governance contract flexibility
 // Improve error handling in transaction flow
+// Integrate privacy-preserving mechanisms
