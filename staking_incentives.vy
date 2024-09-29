@@ -3,3 +3,4 @@
 // Add new feature: on-chain governance
 // Fix edge case in unstaking logic
 // Integrate with external blockchain networks
+// Improve contract auditing tools
