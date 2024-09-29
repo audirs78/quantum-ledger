@@ -6,3 +6,4 @@
 // Integrate decentralized anonymous identity systems
 // Integrate with decentralized storage systems
 // Improve contract verification speed
+// Improve error handling in transaction flow
