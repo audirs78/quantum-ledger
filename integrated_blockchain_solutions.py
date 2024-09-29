@@ -2,3 +2,4 @@
 // Fix issues with gas optimization in smart contracts
 // Add automated smart contract testing
 // Implement delegation pattern
+// Implement on-chain identity verification
