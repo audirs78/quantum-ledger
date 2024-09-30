@@ -4,3 +4,4 @@
 // Optimize hashing algorithm
 // Add gas optimization features for smart contracts
 // Refactor cross-chain communication layer
+// Add governance proposal expiration feature
