@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Fix memory leak in Rust smart contract
 // Add batch processing for transactions
+// Integrate IPFS for storage
