@@ -2,3 +2,4 @@
 // Optimize WASM compilation for Go contracts
 // Add slashing mechanism for malicious actors
 // Fix issues with token transfer confirmations
+// Refactor contract state machine design
