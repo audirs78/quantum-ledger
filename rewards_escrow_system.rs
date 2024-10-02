@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Optimize hashing algorithm
 // Improve cross-chain asset management
+// Implement a new contract event system
