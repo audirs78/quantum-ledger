@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Improve token minting flow efficiency
 // Add unit tests for staking module
+// Enhance privacy features using zk-STARKs
