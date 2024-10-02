@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Add decentralized contract upgradeability
 // Fix edge case in unstaking logic
+// Enhance smart contract extensibility
