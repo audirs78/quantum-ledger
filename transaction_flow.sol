@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Improve token burning mechanism
 // Improve error handling in transaction flow
+// Refactor incentive structure in DeFi protocol
