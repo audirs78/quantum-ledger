@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Improve staking and yield farming logic
 // Optimize contract upgrade process
+// Add support for multiple consensus mechanisms
