@@ -5,3 +5,4 @@
 // Add automated smart contract testing
 // Add support for NFT marketplaces
 // Refactor token distribution mechanism
+// Integrate privacy-enhancing smart contracts
