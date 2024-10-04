@@ -4,3 +4,4 @@
 // Fix compatibility issues with MetaMask
 // Implement delegation pattern
 // Integrate decentralized anonymous identity systems
+// Integrate chain-agnostic oracles
