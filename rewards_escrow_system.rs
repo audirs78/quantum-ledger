@@ -7,3 +7,4 @@
 // Optimize hashing algorithm
 // Improve cross-chain asset management
 // Implement a new contract event system
+// Fix transaction replay issue
