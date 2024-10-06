@@ -4,3 +4,4 @@
 // Integrate with external DeFi protocols
 // Implement emergency stop mechanism
 // Refactor validator reward system
+// Add support for yield farming rewards
