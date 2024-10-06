@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance contract initialization process
 // Integrate IPFS for storage
+// Fix bug in random number generation
