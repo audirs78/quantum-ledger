@@ -12,3 +12,4 @@
 // Refactor contract event emission
 // Fix issue with multi-chain transactions
 // Fix errors in NFT minting logic
+// Implement a new contract event system
