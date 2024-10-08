@@ -5,3 +5,4 @@
 // Optimize token minting flow
 // Implement zero-knowledge proof (ZKP) support
 // Improve cross-chain asset management
+// Improve staking logic for better rewards
