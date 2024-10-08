@@ -7,3 +7,4 @@
 // Enhance governance contract flexibility
 // Refactor voting mechanism
 // Refactor storage layout for better efficiency
+// Optimize token burn process
