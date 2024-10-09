@@ -3,3 +3,4 @@
 // Refactor wallet interaction logic
 // Add automated smart contract testing
 // Enhance token swap functionality
+// Refactor governance proposal logic
