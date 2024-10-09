@@ -3,3 +3,4 @@
 // Integrate staking rewards automation
 // Integrate privacy-enhancing smart contracts
 // Integrate zk-rollups for scaling
+// Improve smart contract code modularity
