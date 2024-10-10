@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Implement performance optimizations for DeFi
 // Enhance contract event handling
+// Integrate privacy-preserving mechanisms
