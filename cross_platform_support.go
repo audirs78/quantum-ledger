@@ -3,3 +3,4 @@
 // Refactor reward pooling algorithm
 // Fix type mismatch in Haskell smart contract
 // Improve contract execution performance
+// Fix bugs in multi-token systems
