@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Refactor oracle interaction logic
 // Integrate Chainlink oracles
+// Integrate automated market maker (AMM) logic
