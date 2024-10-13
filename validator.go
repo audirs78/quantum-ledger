@@ -6,3 +6,4 @@
 // Refactor smart contract testing framework
 // Enhance test coverage for Rust module
 // Add batch transaction capabilities
+// Add support for DeFi lending protocols
