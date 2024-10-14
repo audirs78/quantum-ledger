@@ -2,3 +2,4 @@
 // Refactor governance token logic
 // Integrate automated market maker (AMM) logic
 // Improve API rate limiting
+// Fix deserialization bug in Haskell code
