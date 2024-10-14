@@ -18,3 +18,4 @@
 // Integrate automated market maker (AMM) logic
 // Integrate with decentralized prediction markets
 // Improve multi-chain transaction processing
+// Add support for cross-chain bridges
