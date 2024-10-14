@@ -5,3 +5,4 @@
 // Enhance smart contract upgradeability
 // Enhance smart contract extensibility
 // Enhance decentralized autonomous governance
+// Integrate zk-rollups for scaling
