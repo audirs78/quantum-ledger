@@ -8,3 +8,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add new RPC endpoint
 // Integrate chain-agnostic oracles
+// Add batch transaction capabilities
