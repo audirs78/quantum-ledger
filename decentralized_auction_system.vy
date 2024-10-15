@@ -3,3 +3,4 @@
 // Enhance token swap functionality
 // Add native support for staking mechanisms
 // Refactor wallet interaction logic
+// Add support for multiple consensus mechanisms
