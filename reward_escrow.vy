@@ -7,3 +7,4 @@
 // Fix compatibility issues with major wallets
 // Fix deserialization bug in Haskell code
 // Add multi-sig wallet functionality
+// Integrate with decentralized storage systems
