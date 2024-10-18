@@ -2,3 +2,4 @@
 // Refactor token distribution mechanism
 // Reduce gas cost in minting logic
 // Improve staking pool reward management
+// Refactor governance proposal logic
