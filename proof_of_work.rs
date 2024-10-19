@@ -2,3 +2,4 @@
 // Fix errors in NFT minting logic
 // Fix compatibility issues with MetaMask
 // Enhance contract event handling
+// Integrate IPFS for storage
