@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Enhance contract event handling
 // Optimize hashing algorithm
+// Refactor governance token logic
