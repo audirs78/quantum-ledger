@@ -6,3 +6,4 @@
 // Add fallback mechanism in Solidity contract
 // Integrate with decentralized prediction markets
 // Enhance contract upgrade process
+// Fix overflow bug in token calculation
