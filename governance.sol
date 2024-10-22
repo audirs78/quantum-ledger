@@ -9,3 +9,4 @@
 // Optimize hashing algorithm
 // Implement reward distribution feature
 // Add decentralized contract upgradeability
+// Enhance privacy features using zk-STARKs
