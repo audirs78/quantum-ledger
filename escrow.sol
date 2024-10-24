@@ -10,3 +10,4 @@
 // Improve token burning mechanism
 // Enhance governance contract flexibility
 // Implement price feed oracles for tokens
+// Improve error handling in transaction flow
