@@ -4,3 +4,4 @@
 // Enhance off-chain data processing
 // Add new RPC endpoint
 // Improve gas estimation for transactions
+// Improve smart contract logging
