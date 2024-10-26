@@ -5,3 +5,4 @@
 // Fix issues with token vesting contracts
 // Refactor incentive structure in DeFi protocol
 // Improve gas estimation for transactions
+// Improve security in decentralized applications
