@@ -11,3 +11,4 @@
 // Improve gas estimation for transactions
 // Add batch transaction capabilities
 // Integrate Chainlink oracles for price data
+// Improve gas estimation for transactions
