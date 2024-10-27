@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Improve DApp transaction flow
 // Bugfix: incorrect reward calculation
+// Add support for delegation in governance
