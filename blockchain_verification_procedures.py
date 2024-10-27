@@ -7,3 +7,4 @@
 // Add support for Layer-2 solutions
 // Optimize hashing algorithm
 // Enhance decentralized finance (DeFi) ecosystem
+// Fix compatibility issues with MetaMask
