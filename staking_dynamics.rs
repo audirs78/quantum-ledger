@@ -5,3 +5,4 @@
 // Improve contract creation process
 // Improve smart contract logging
 // Add support for delegation in governance
+// Integrate Chainlink VRF for randomness
