@@ -8,3 +8,4 @@
 // Enhance security checks
 // Improve smart contract code modularity
 // Optimize token minting flow
+// Optimize gas usage for contract deployment
