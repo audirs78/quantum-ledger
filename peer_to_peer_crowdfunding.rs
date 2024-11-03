@@ -4,3 +4,4 @@
 // Enhance decentralized autonomous organizations
 // Fix bugs in NFT metadata handling
 // Optimize oracle data fetching mechanism
+// Refactor staking logic
