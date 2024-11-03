@@ -8,3 +8,4 @@
 // Update dependencies for Vyper contract
 // Fix vulnerabilities in staking contracts
 // Optimize hashing algorithm
+// Fix issues with contract state management
