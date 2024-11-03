@@ -4,3 +4,4 @@
 // Improve token burning mechanism
 // Add Layer-2 Ethereum scaling solutions
 // Add Layer-2 Ethereum scaling solutions
+// Add native support for staking rewards
