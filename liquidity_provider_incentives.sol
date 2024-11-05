@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Improve gas estimation for transactions
 // Add support for ERC-721A tokens
+// Enhance contract state verification
