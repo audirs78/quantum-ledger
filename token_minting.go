@@ -6,3 +6,4 @@
 // Improve error handling in transaction flow
 // Improve staking and yield farming logic
 // Integrate with Ethereum Layer-2 solutions
+// Implement price feed oracles for tokens
