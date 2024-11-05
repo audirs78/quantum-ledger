@@ -9,3 +9,4 @@
 // Fix issues with token transfer confirmations
 // Improve decentralized exchange (DEX) liquidity
 // Implement contract function batching
+// Improve security in decentralized applications
