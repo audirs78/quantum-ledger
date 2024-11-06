@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Optimize Oracle-based data fetching
 // Optimize token withdrawal logic
+// Improve contract state management
