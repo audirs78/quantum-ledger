@@ -8,3 +8,4 @@
 // Add native support for staking rewards
 // Enhance smart contract upgradeability
 // Enhance decentralized autonomous governance
+// Add support for Layer-2 solutions
