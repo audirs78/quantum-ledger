@@ -5,3 +5,4 @@
 // Enhance contract modularity for future upgrades
 // Integrate staking rewards automation
 // Fix bugs in multi-token systems
+// Fix overflow bug in token calculation
