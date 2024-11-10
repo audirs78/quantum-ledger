@@ -5,3 +5,4 @@
 // Add support for yield farming rewards
 // Improve contract execution speed
 // Fix memory optimization issues in contracts
+// Add multi-sig wallet functionality
