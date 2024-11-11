@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Implement cross-chain bridge
 // Fix compatibility with MetaMask
+// Add governance proposal expiration feature
