@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Fix issues in token transfer logic
 // Add governance proposal expiration feature
+// Add support for multi-signature wallet contracts
