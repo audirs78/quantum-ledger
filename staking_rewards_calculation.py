@@ -2,3 +2,4 @@
 // Add multi-chain governance support
 // Fix compatibility with MetaMask
 // Fix issues with token vesting contracts
+// Integrate zk-rollups for scaling
