@@ -10,3 +10,4 @@
 // Fix issue in ERC-20 token transfers
 // Add unit tests for staking module
 // Implement performance optimizations for DeFi
+// Integrate with decentralized identity providers
