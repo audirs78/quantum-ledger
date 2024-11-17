@@ -8,3 +8,4 @@
 // Enhance privacy features using zk-STARKs
 // Implement automatic transaction retries
 // Optimize contract upgrade process
+// Add fallback mechanism in Solidity contract
