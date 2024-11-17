@@ -8,3 +8,4 @@
 // Refactor voting mechanism
 // Refactor storage layout for better efficiency
 // Optimize token burn process
+// Optimize decentralized voting mechanisms
