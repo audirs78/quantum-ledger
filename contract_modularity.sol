@@ -6,3 +6,4 @@
 // Refactor governance proposal logic
 // Refactor governance proposal logic
 // Enhance contract upgrade mechanism
+// Improve on-chain governance systems
