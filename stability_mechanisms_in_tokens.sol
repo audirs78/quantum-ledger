@@ -3,3 +3,4 @@
 // Improve contract state management
 // Add dynamic contract upgrade mechanisms
 // Fix overflow bug in token calculation
+// Enhance logging for better debugging
