@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Implement liquidity pool staking mechanism
 // Add support for decentralized credit scoring
+// Add multi-sig wallet functionality
