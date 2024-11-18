@@ -3,3 +3,4 @@
 // Integrate staking rewards automation
 // Add support for cross-chain bridges
 // Fix issues in token transfer logic
+// Update README with Go module examples
