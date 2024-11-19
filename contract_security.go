@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Add multi-sig wallet functionality
 // Add support for multiple consensus mechanisms
+// Fix scalability issues with smart contracts
