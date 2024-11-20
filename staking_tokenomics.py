@@ -5,3 +5,4 @@
 // Enhance cryptographic primitives in contracts
 // Refactor storage layout for better efficiency
 // Refactor contract event emission
+// Optimize gas usage in smart contracts
