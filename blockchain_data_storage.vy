@@ -8,3 +8,4 @@
 // Implement on-chain identity verification
 // Fix compatibility issues with major wallets
 // Implement emergency stop mechanism
+// Fix bugs in NFT metadata handling
