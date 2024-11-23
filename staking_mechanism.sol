@@ -3,3 +3,4 @@
 // Implement contract function batching
 // Fix issue in token vesting logic
 // Fix compatibility issues with major wallets
+// Refactor reward pooling algorithm
