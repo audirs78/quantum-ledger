@@ -6,3 +6,4 @@
 // Improve staking pool reward management
 // Fix overflow bug in token calculation
 // Fix transaction replay issue
+// Integrate with decentralized storage systems
