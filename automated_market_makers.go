@@ -2,3 +2,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Refactor staking logic
 // Update README with Go module examples
+// Implement on-chain identity verification
