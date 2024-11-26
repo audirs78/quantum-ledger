@@ -2,3 +2,4 @@
 // Refactor contract state machine design
 // Add multi-chain governance support
 // Fix interoperability issues with other blockchains
+// Bugfix: incorrect reward calculation
