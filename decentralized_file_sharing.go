@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Implement contract function batching
 // Optimize Oracle-based data fetching
+// Optimize token burn process
