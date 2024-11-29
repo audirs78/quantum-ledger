@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate zk-rollups for scaling
 // Improve security for token minting contracts
+// Refactor decentralized governance structure
