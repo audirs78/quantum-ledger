@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Integrate Chainlink VRF for randomness
 // Code cleanup and documentation update
+// Integrate with decentralized prediction markets
