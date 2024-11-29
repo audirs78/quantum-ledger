@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Optimize gas cost in function execution
 // Optimize token minting flow
+// Improve contract modularity
