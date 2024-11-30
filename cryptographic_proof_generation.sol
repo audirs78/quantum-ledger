@@ -5,3 +5,4 @@
 // Improve multi-chain transaction processing
 // Improve contract execution performance
 // Integrate IPFS for storage
+// Integrate Chainlink oracles for price data
