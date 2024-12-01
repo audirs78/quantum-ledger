@@ -6,3 +6,4 @@
 // Add new feature: on-chain governance
 // Add support for ERC-1155 tokens
 // Add support for DeFi lending protocols
+// Improve error handling in transaction flow
