@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Refactor smart contract testing framework
 // Add automated smart contract testing
+// Refactor staking logic
