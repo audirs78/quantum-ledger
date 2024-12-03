@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Implement delegation pattern
 // Refactor token distribution mechanism
+// Refactor decentralized governance structure
