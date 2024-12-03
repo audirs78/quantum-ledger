@@ -3,3 +3,4 @@
 // Add automated smart contract testing
 // Implement delegation pattern
 // Implement on-chain identity verification
+// Refactor decentralized governance structure
