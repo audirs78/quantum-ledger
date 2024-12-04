@@ -8,3 +8,4 @@
 // Fix errors in NFT minting logic
 // Add support for yield farming rewards
 // Optimize gas cost in function execution
+// Optimize cross-chain communication
