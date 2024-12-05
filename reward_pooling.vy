@@ -7,3 +7,4 @@
 // Optimize storage for off-chain data
 // Improve gas fee estimation accuracy
 // Optimize contract upgrade process
+// Fix governance proposal approval logic
