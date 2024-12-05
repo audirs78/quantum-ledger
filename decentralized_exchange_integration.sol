@@ -3,3 +3,4 @@
 // Enhance test coverage for Rust module
 // Add support for Layer-2 solutions
 // Refactor reward pooling algorithm
+// Add support for decentralized auctions
