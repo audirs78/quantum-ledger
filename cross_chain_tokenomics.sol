@@ -6,3 +6,4 @@
 // Implement price feed oracles for tokens
 // Enhance cryptographic primitives in contracts
 // Refactor Ethereum gas price management
+// Improve staking logic for better rewards
