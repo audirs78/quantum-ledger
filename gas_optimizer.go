@@ -11,3 +11,4 @@
 // Enhance contract interaction APIs
 // Add support for NFT marketplaces
 // Fix issues with contract finalization
+// Fix compatibility issues with major wallets
