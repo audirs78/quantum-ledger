@@ -5,3 +5,4 @@
 // Improve smart contract logging
 // Refactor Ethereum gas price management
 // Integrate IPFS for storage
+// Refactor contract event emission
