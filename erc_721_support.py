@@ -4,3 +4,4 @@
 // Fix issues in multi-token smart contracts
 // Refactor token distribution mechanism
 // Improve contract state management
+// Refactor reward pooling algorithm
