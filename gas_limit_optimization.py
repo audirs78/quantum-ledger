@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Optimize gas cost in function execution
 // Optimize contract storage for gas reduction
+// Add automated smart contract testing
