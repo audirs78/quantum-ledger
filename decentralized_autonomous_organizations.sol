@@ -3,3 +3,4 @@
 // Implement cross-platform contract compatibility
 // Implement contract function batching
 // Implement automated governance voting
+// Add unit tests for staking module
