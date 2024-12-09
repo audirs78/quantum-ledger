@@ -7,3 +7,4 @@
 // Enhance cryptographic primitives in contracts
 // Improve contract modularity
 // Improve contract state management
+// Add multi-sig wallet functionality
