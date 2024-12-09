@@ -11,3 +11,4 @@
 // Fix edge case in unstaking logic
 // Add support for multiple consensus mechanisms
 // Improve gas estimation for transactions
+// Refactor cross-chain communication layer
