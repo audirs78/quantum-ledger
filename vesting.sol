@@ -6,3 +6,4 @@
 // Integrate multi-chain liquidity pools
 // Implement zero-knowledge proof (ZKP) support
 // Integrate automated market maker (AMM) logic
+// Fix vulnerabilities in staking contracts
