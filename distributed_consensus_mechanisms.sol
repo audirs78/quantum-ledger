@@ -4,3 +4,4 @@
 // Enhance transaction monitoring
 // Fix issues with token vesting contracts
 // Improve contract modularity
+// Fix issues in multi-token smart contracts
