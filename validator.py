@@ -8,3 +8,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Fix contract reentrancy issues
 // Refactor storage layout for better efficiency
+// Add governance proposal expiration feature
