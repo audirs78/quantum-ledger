@@ -4,3 +4,4 @@
 // Enhance contract event handling
 // Optimize hashing algorithm
 // Refactor governance token logic
+// Enhance logging for better debugging
