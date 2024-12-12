@@ -3,3 +3,4 @@
 // Integrate privacy-preserving mechanisms
 // Add support for cross-chain bridges
 // Add governance proposal expiration feature
+// Integrate Chainlink oracles
