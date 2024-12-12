@@ -11,3 +11,4 @@
 // Refactor contract state machine design
 // Fix compatibility issues with MetaMask
 // Add support for yield farming rewards
+// Add support for decentralized content distribution
