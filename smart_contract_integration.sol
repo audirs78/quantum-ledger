@@ -7,3 +7,4 @@
 // Add batch processing for transactions
 // Add support for ERC-1155 tokens
 // Optimize gas cost in function execution
+// Integrate privacy-preserving mechanisms
