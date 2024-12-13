@@ -6,3 +6,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Improve cross-chain asset management
 // Improve staking logic for better rewards
+// Add native support for staking mechanisms
