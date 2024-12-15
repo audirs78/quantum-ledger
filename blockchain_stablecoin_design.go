@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Fix vulnerability in decentralized finance protocols
 // Improve contract verification speed
+// Improve API rate limiting
