@@ -2,3 +2,4 @@
 // Fix issues with cross-chain transaction finality
 // Add slashing mechanism for malicious actors
 // Enhance contract event handling
+// Add batch processing for transactions
