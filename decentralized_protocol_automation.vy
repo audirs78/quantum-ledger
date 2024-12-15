@@ -2,3 +2,4 @@
 // Improve token burning mechanism
 // Add support for zk-SNARKs in smart contracts
 // Improve API rate limiting
+// Add automated contract testing tools
