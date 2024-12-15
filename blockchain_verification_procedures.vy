@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Fix edge case in unstaking logic
 // Improve contract auditing tools
+// Optimize gas usage in contract execution
