@@ -7,3 +7,4 @@
 // Integrate privacy-enhancing smart contracts
 // Enhance smart contract upgradeability
 // Fix governance proposal approval logic
+// Refactor storage layout for better efficiency
