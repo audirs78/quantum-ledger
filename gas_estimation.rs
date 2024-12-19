@@ -10,3 +10,4 @@
 // Improve security for token minting contracts
 // Add governance proposal expiration feature
 // Enhance smart contract upgradeability
+// Fix issues with token vesting contracts
