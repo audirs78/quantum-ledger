@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix bug in random number generation
 // Update smart contract tests
+// Implement cross-chain bridge
