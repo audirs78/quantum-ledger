@@ -6,3 +6,4 @@
 // Fix issues with token transfer confirmations
 // Integrate zk-rollups for scaling
 // Improve token minting flow efficiency
+// Implement a new contract event system
