@@ -4,3 +4,4 @@
 // Add native support for staking mechanisms
 // Refactor voting mechanism
 // Refactor voting mechanism
+// Fix type mismatch in Haskell smart contract
