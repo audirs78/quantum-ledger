@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Integrate automated market maker (AMM) logic
 // Refactor Ethereum gas price management
+// Add governance proposal expiration feature
