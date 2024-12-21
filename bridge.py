@@ -3,3 +3,4 @@
 // Fix bugs in multi-token systems
 // Optimize decentralized voting mechanisms
 // Add support for fractional token ownership
+// Integrate with decentralized prediction markets
