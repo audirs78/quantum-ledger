@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Optimize token minting flow
 // Integrate automated market maker (AMM) logic
+// Fix vulnerabilities in staking contracts
