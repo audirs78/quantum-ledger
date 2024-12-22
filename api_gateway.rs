@@ -9,3 +9,4 @@
 // Add support for multi-signature wallet contracts
 // Fix issue with multi-chain transactions
 // Integrate chain-agnostic oracles
+// Add support for decentralized insurance protocols
