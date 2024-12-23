@@ -10,3 +10,4 @@
 // Fix bugs in decentralized exchange routing
 // Fix vulnerability in decentralized finance protocols
 // Enhance privacy features using zk-STARKs
+// Refactor staking logic
