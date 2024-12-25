@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Add support for delegation in governance
 // Enhance transaction monitoring
+// Fix type mismatch in Haskell smart contract
