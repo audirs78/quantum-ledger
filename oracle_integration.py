@@ -7,3 +7,4 @@
 // Add non-fungible token (NFT) support
 // Integrate IPFS for storage
 // Fix edge case in unstaking logic
+// Optimize gas usage for contract deployment
