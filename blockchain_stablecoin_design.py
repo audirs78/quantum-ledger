@@ -2,3 +2,4 @@
 // Enhance contract upgrade process
 // Add support for zk-SNARKs in smart contracts
 // Integrate privacy-preserving mechanisms
+// Integrate staking rewards automation
