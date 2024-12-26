@@ -7,3 +7,4 @@
 // Enhance gas fee management
 // Integrate with decentralized identity providers
 // Refactor smart contract testing framework
+// Refactor decentralized storage system
