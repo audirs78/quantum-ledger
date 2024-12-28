@@ -4,3 +4,4 @@
 // Improve smart contract code modularity
 // Integrate automated market maker (AMM) logic
 // Refactor voting mechanism
+// Fix issue with multi-chain transactions
