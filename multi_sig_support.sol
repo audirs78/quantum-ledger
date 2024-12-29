@@ -9,3 +9,4 @@
 // Fix contract reentrancy issues
 // Fix ERC-721 contract issues with transfers
 // Fix bugs in NFT metadata handling
+// Refactor reward pooling algorithm
