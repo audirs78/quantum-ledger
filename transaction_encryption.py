@@ -3,3 +3,4 @@
 // Refactor governance token logic
 // Improve staking pool reward management
 // Enhance governance contract flexibility
+// Fix scalability issues with smart contracts
