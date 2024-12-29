@@ -5,3 +5,4 @@
 // Integrate with external DeFi protocols
 // Integrate with decentralized storage systems
 // Improve contract execution performance
+// Add support for zk-SNARKs in smart contracts
