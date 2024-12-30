@@ -11,3 +11,4 @@
 // Refactor token distribution mechanism
 // Integrate decentralized prediction models
 // Improve token burning mechanism
+// Integrate privacy-enhancing smart contracts
