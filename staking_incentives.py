@@ -11,3 +11,4 @@
 // Add batch transaction capabilities
 // Optimize Oracle-based data fetching
 // Add support for NFT marketplaces
+// Improve error handling in transaction flow
