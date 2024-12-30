@@ -7,3 +7,4 @@
 // Implement rewards escrow system
 // Add support for decentralized insurance protocols
 // Refactor staking logic
+// Integrate Chainlink oracles
