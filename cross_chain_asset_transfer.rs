@@ -2,3 +2,4 @@
 // Optimize oracle data fetching mechanism
 // Implement a new contract event system
 // Fix compatibility issues with MetaMask
+// Fix issues with contract state management
