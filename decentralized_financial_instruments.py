@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve gas estimation for transactions
 // Improve security in decentralized applications
+// Refactor multi-signature wallet code
