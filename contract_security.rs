@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Fix overflow bug in token calculation
 // Add support for ERC-1155 tokens
+// Implement liquidity pool staking mechanism
