@@ -4,3 +4,4 @@
 // Refactor Ethereum gas price management
 // Refactor incentive structure in DeFi protocol
 // Implement delegation pattern
+// Add support for Layer-2 solutions
