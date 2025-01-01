@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Enhance contract modularity
 // Optimize contract storage for gas reduction
+// Add support for decentralized file storage
