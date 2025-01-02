@@ -6,3 +6,4 @@
 // Refactor token distribution mechanism
 // Integrate multi-chain liquidity pools
 // Update smart contract tests
+// Implement price feed oracles for tokens
