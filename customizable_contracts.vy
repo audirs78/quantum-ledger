@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Improve token burning mechanism
 // Optimize proof-of-stake validation
+// Integrate Chainlink VRF for randomness
