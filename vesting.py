@@ -11,3 +11,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor staking logic
 // Enhance smart contract upgradeability
+// Add support for ERC-721A tokens
