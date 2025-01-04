@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles
 // Fix governance proposal approval logic
 // Integrate IPFS for storage
+// Refactor contract event emission
