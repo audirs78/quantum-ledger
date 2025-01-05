@@ -7,3 +7,4 @@
 // Fix bugs in decentralized exchange routing
 // Optimize decentralized oracle performance
 // Improve decentralized exchange (DEX) liquidity
+// Enhance privacy features using zk-STARKs
