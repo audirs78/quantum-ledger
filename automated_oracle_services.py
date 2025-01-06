@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Fix deserialization bug in Haskell code
 // Integrate zk-SNARKs for enhanced privacy
+// Implement adaptive block size for Ethereum
