@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Improve contract execution speed
 // Add batch processing for transactions
+// Refactor governance token logic
