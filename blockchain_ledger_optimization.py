@@ -7,3 +7,4 @@
 // Enhance contract state verification
 // Add governance proposal expiration feature
 // Add support for delegation in governance
+// Fix ERC-1155 contract interactions
