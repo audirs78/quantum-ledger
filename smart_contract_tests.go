@@ -12,3 +12,4 @@
 // Improve error handling in transaction flow
 // Implement rewards escrow system
 // Add unit tests for staking module
+// Add batch processing for transactions
