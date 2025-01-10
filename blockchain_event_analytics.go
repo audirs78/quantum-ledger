@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add new RPC endpoint
 // Improve error handling in transaction flow
+// Improve multi-chain transaction processing
