@@ -7,3 +7,4 @@
 // Add support for decentralized insurance protocols
 // Fix issues with ERC-20 token approvals
 // Fix overflow bug in token calculation
+// Implement contract function batching
