@@ -8,3 +8,4 @@
 // Integrate zk-rollups for scaling
 // Improve multi-chain transaction processing
 // Integrate Chainlink oracles
+// Improve token burning mechanism
