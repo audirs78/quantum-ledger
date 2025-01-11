@@ -7,3 +7,4 @@
 // Improve cross-chain asset management
 // Improve staking logic for better rewards
 // Add native support for staking mechanisms
+// Update testing framework for Solidity
