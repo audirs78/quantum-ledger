@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Integrate IPFS for storage
 // Fix bug in random number generation
+// Add support for fractional token ownership
