@@ -12,3 +12,4 @@
 // Add multi-chain governance support
 // Improve token burning mechanism
 // Fix compatibility issues with major wallets
+// Implement emergency stop mechanism
