@@ -10,3 +10,4 @@
 // Improve on-chain governance systems
 // Refactor reward pooling algorithm
 // Add decentralized contract upgradeability
+// Add security checks for contract deployment
