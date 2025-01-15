@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Add new RPC endpoint
 // Add support for decentralized auctions
+// Implement reward distribution feature
