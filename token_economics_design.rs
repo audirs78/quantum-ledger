@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Optimize gas cost in function execution
 // Add support for yield farming rewards
+// Improve contract interaction via APIs
