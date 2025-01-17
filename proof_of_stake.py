@@ -7,3 +7,4 @@
 // Integrate with decentralized storage systems
 // Improve contract verification speed
 // Improve error handling in transaction flow
+// Fix type mismatch in Haskell smart contract
