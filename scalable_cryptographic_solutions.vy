@@ -4,3 +4,4 @@
 // Fix issue in token vesting logic
 // Refactor decentralized storage system
 // Refactor validator reward system
+// Fix vulnerabilities in staking contracts
