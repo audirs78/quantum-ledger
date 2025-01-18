@@ -5,3 +5,4 @@
 // Optimize contract upgrade process
 // Fix Oracle communication delay issues
 // Add unit tests for staking module
+// Refactor staking logic
