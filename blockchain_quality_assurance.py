@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Bugfix: incorrect reward calculation
 // Fix race condition in staking pool
+// Improve security for token minting contracts
