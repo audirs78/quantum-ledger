@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor governance token logic
 // Improve staking logic for better rewards
+// Enhance security checks
