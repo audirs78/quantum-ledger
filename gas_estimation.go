@@ -8,3 +8,4 @@
 // Add support for decentralized insurance protocols
 // Refactor staking logic
 // Integrate Chainlink oracles
+// Integrate zk-SNARKs for enhanced privacy
