@@ -7,3 +7,4 @@
 // Improve staking and yield farming logic
 // Integrate with Ethereum Layer-2 solutions
 // Implement price feed oracles for tokens
+// Implement rewards escrow system
