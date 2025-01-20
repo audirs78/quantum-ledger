@@ -4,3 +4,4 @@
 // Improve staking pool reward management
 // Refactor governance proposal logic
 // Optimize hashing algorithm
+// Improve decentralized oracle protocols
