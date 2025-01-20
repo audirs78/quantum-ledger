@@ -6,3 +6,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize token burn process
 // Add unit tests for staking module
+// Add support for multi-signature wallet contracts
