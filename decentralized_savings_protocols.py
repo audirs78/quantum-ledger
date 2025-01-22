@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Add support for DeFi lending protocols
 // Improve error handling in transaction flow
+// Add unit tests for staking module
