@@ -9,3 +9,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve gas estimation for transactions
 // Fix interoperability issues with other blockchains
+// Improve security for token minting contracts
