@@ -5,3 +5,4 @@
 // Optimize cross-chain bridging mechanisms
 // Add support for ERC-721A tokens
 // Fix issues with cross-chain transaction finality
+// Fix issues with token transfer confirmations
