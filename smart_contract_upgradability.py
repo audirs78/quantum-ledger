@@ -8,3 +8,4 @@
 // Integrate with decentralized identity providers
 // Refactor smart contract testing framework
 // Refactor decentralized storage system
+// Add support for cross-chain bridges
