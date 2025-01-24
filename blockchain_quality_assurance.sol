@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Integrate privacy-enhancing smart contracts
 // Fix compatibility with MetaMask
+// Add support for delegation in governance
