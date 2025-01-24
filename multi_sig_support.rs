@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Fix deserialization bug in Haskell code
 // Improve token minting flow efficiency
+// Fix issues in multi-token smart contracts
