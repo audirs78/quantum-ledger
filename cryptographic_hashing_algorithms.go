@@ -4,3 +4,4 @@
 // Integrate decentralized prediction models
 // Refactor oracle interaction logic
 // Add support for multiple consensus mechanisms
+// Fix issue with multi-chain transactions
