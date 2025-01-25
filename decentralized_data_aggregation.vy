@@ -5,3 +5,4 @@
 // Implement decentralized arbitration in contracts
 // Add support for ERC-721A tokens
 // Add support for yield farming rewards
+// Refactor contract to use EIP-712 signatures
