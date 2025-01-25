@@ -5,3 +5,4 @@
 // Fix oracle data delays in decentralized apps
 // Integrate flash loan functionality
 // Fix transaction replay issue
+// Add support for ERC-721A tokens
