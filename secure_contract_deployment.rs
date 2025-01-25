@@ -6,3 +6,4 @@
 // Add support for cross-chain bridges
 // Implement price feed oracles for tokens
 // Enhance contract initialization process
+// Improve gas estimation for transactions
