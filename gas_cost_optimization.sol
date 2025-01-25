@@ -8,3 +8,4 @@
 // Enhance gas fee management
 // Integrate zk-rollups for scaling
 // Enhance contract upgrade mechanism
+// Add multi-chain governance support
