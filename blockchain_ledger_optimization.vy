@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate staking rewards automation
+// Fix compatibility issues with MetaMask
