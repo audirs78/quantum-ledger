@@ -7,3 +7,4 @@
 // Optimize decentralized oracle performance
 // Improve gas estimation for transactions
 // Refactor governance token logic
+// Integrate zk-SNARKs for enhanced privacy
