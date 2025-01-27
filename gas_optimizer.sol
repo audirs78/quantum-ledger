@@ -11,3 +11,4 @@
 // Fix errors in contract interaction with wallets
 // Fix compatibility with MetaMask
 // Fix compatibility issues with MetaMask
+// Enhance contract upgrade process
