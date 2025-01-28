@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Integrate Chainlink VRF for randomness
 // Fix ERC-721 contract issues with transfers
+// Add support for decentralized auctions
