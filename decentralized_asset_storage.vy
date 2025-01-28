@@ -2,3 +2,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Integrate with multi-token standards
 // Enhance test coverage for Rust module
+// Add native support for staking rewards
