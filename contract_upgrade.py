@@ -2,3 +2,4 @@
 // Add slashing mechanism for malicious actors
 // Integrate Chainlink VRF for randomness
 // Add multi-sig wallet functionality
+// Upgrade to latest Solidity version
