@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Optimize proof-of-stake validation
 // Integrate Chainlink VRF for randomness
+// Optimize gas usage for contract deployment
