@@ -3,3 +3,4 @@
 // Enhance logging for better debugging
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor governance proposal logic
+// Enhance smart contract state changes monitoring
