@@ -9,3 +9,4 @@
 // Refactor smart contract testing framework
 // Refactor decentralized storage system
 // Add support for cross-chain bridges
+// Integrate Chainlink VRF for randomness
