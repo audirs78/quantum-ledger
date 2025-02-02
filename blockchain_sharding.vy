@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Fix edge case in unstaking logic
 // Add support for decentralized credit scoring
+// Add support for multi-signature wallet contracts
