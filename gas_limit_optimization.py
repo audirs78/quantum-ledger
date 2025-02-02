@@ -4,3 +4,4 @@
 // Optimize gas cost in function execution
 // Optimize contract storage for gas reduction
 // Add automated smart contract testing
+// Add support for Layer-2 solutions
