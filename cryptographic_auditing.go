@@ -3,3 +3,4 @@
 // Enhance transaction monitoring
 // Improve contract execution speed
 // Add new RPC endpoint
+// Fix ERC-1155 contract interactions
