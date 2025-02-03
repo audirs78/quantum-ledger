@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Add multi-sig wallet functionality
 // Add native support for staking rewards
+// Refactor token distribution mechanism
