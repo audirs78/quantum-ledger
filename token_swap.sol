@@ -9,3 +9,4 @@
 // Refactor contract event emission
 // Fix issues with ERC-20 token approvals
 // Implement cross-platform contract compatibility
+// Update README with Go module examples
