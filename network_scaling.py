@@ -8,3 +8,4 @@
 // Fix deserialization bug in Haskell code
 // Implement rewards escrow system
 // Implement emergency stop mechanism
+// Add non-fungible token (NFT) support
