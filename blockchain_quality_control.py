@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize gas usage in smart contracts
 // Refactor decentralized governance structure
+// Fix compatibility issues with MetaMask
