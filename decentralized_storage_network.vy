@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Optimize cross-chain bridging mechanisms
 // Improve gas estimation for transactions
+// Fix governance proposal approval logic
