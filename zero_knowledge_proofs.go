@@ -8,3 +8,4 @@
 // Refactor cross-chain communication layer
 // Implement contract function batching
 // Add multi-chain transaction support
+// Fix compatibility issues with MetaMask
