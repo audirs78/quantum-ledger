@@ -4,3 +4,4 @@
 // Enhance decentralized autonomous governance
 // Enhance governance contract flexibility
 // Improve contract interaction via APIs
+// Optimize storage for off-chain data
