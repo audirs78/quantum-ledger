@@ -9,3 +9,4 @@
 // Integrate with decentralized identity providers
 // Fix type mismatch in Haskell smart contract
 // Enhance contract event handling
+// Add native support for staking rewards
