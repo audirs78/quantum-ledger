@@ -5,3 +5,4 @@
 // Fix compatibility issues with major wallets
 // Refactor reward pooling algorithm
 // Refactor governance token logic
+// Add support for decentralized credit scoring
