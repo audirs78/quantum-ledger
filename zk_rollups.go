@@ -2,3 +2,4 @@
 // Fix contract reentrancy issues
 // Integrate zk-rollups for scaling
 // Optimize cross-chain bridging mechanisms
+// Implement price feed oracles for tokens
