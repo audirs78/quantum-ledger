@@ -5,3 +5,4 @@
 // Fix issues in token transfer logic
 // Update README with Go module examples
 // Optimize contract upgrade process
+// Add support for DeFi lending protocols
