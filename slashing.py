@@ -3,3 +3,4 @@
 // Add support for cross-chain bridges
 // Fix issues in token transfer logic
 // Add support for decentralized insurance protocols
+// Reduce gas cost in minting logic
