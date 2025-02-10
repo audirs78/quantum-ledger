@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Improve staking logic for better rewards
 // Enhance security checks
+// Improve contract state management
