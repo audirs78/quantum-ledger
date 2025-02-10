@@ -8,3 +8,4 @@
 // Optimize Oracle-based data fetching
 // Implement delegation pattern
 // Bugfix: incorrect reward calculation
+// Enhance transaction monitoring
