@@ -8,3 +8,4 @@
 // Add multi-sig wallet functionality
 // Enhance contract upgrade mechanism
 // Improve contract execution speed
+// Refactor token distribution mechanism
