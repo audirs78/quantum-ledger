@@ -2,3 +2,4 @@
 // Improve decentralized oracle protocols
 // Add Layer-2 Ethereum scaling solutions
 // Refactor governance proposal logic
+// Improve token burning mechanism
