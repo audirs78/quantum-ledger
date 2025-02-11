@@ -7,3 +7,4 @@
 // Add support for fractional token ownership
 // Add multi-chain governance support
 // Fix compatibility issues with MetaMask
+// Improve token burning mechanism
